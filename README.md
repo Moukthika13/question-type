@@ -9,3 +9,4 @@ Example:
 There are ambiguous cases to handle as well, like:
 What time does the train leave(this looks like a what question but is actually a When type)
 
+**Detailed explaination is given with comments in the ipython notebook**
