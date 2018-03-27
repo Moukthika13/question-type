@@ -1,4 +1,6 @@
 You would be needing the follwoing to run the code:
+Python 3.6
+jupyter notebook (for the ease of running the code)
 Pandas
 NLTK
 sklearn
